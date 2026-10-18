@@ -1,0 +1,89 @@
+Esta noche, una ciudad entera respira luz. Semáforos, hospitales, refrigeradores, la pantalla en la que estás viendo esto. Casi toda esa electricidad viaja como una onda. Cambia de dirección decenas de veces por segundo. Y detrás de esa idea hay un hombre que murió pobre, en un cuarto de hotel, convencido de que el futuro todavía no lo había alcanzado.
+
+Se llamaba Nikola Tesla.
+
+Nació el diez de julio de mil ochocientos cincuenta y seis, en Smiljan, un pueblo pequeño del imperio austríaco, hoy Croacia. La noche de su nacimiento, cuentan, una tormenta partió el cielo. La partera dijo que el niño sería un hijo de la oscuridad. Su madre respondió que no: sería un hijo de la luz.
+
+Su padre, Milutin, era sacerdote ortodoxo y quería que Nikola siguiera el mismo camino. Su madre, Duka, no tenía estudios formales y tenía una memoria prodigiosa. Inventaba utensilios de cocina. Tejía. Reparaba. Tesla diría después que heredó de ella el talento de imaginar una máquina completa antes de tocar una herramienta.
+
+De niño veía el mundo como si estuviera hecho de engranajes invisibles. Se obsesionó con una rueda de agua. Con el vuelo de los insectos. Con el trueno. Muy pequeño perdió a su hermano mayor, Dane, en un accidente. La casa se apagó. El padre idealizaba al hijo muerto. Nikola creció con una herida y con una ambición que no le cabía en el pecho.
+
+Leía de noche hasta que le dolían los ojos. Memorizaba libros enteros. Decía que podía construir un aparato en la mente, dejarlo funcionar durante semanas y regresar a revisarlo, pieza por pieza, sin haber dibujado una línea. No era magia. Era una imaginación entrenada hasta el límite de la salud.
+
+En Graz, en la universidad, vio por primera vez un motor de corriente directa. El aparato chispeaba. Un profesor explicó que esas chispas eran inevitables. Tesla, casi en voz baja, dijo que podía imaginarse un motor sin ellas. El profesor se burló delante de la clase. Esa burla lo persiguió años.
+
+No terminó la carrera. La presión y una crisis nerviosa lo sacaron de los estudios. En Budapest, en mil ochocientos ochenta y dos, caminaba por un parque con un amigo, recitando a Goethe, cuando la visión llegó entera. Un campo magnético girando en el espacio. No una corriente que va y viene por un cable torpe, sino un círculo de fuerza. El motor de inducción. El corazón de casi todos los motores que hoy mueven trenes, fábricas y ventiladores.
+
+Tesla tenía veintiséis años. Y todavía no tenía dinero para construirlo.
+
+Cruzó a París. Trabajó para la compañía continental de Edison. Dormía poco. Arreglaba plantas eléctricas. En mil ochocientos ochenta y cuatro llegó a Nueva York con cuatro centavos, un cuaderno de cálculos y una carta de presentación. La ciudad olía a carbón y a ambición. Thomas Alva Edison ya era una leyenda: el hombre de la bombilla, de Menlo Park, de las patentes por docenas.
+
+Tesla entró a trabajar con él. Mejoró generadores. Propuso un sistema distinto, de corriente alterna. Edison creía en la corriente directa: simple, ya instalada, suya. Tesla contaría años después que Edison le prometió cincuenta mil dólares si lograba rediseñar sus máquinas, y que al ir a cobrar, Edison se rió y le dijo que todavía no entendía el humor americano. La anécdota viene sobre todo del propio Tesla. Puede estar bordada por el rencor. Lo que sí está claro es esto: chocaron dos temperamentos y dos ideas de futuro. Tesla renunció.
+
+Pasó una temporada cavando zanjas para sobrevivir. El hombre que había visto girar un campo magnético en el aire cargaba palas en el barro de Manhattan. No es una metáfora. Es el año en que casi desaparece.
+
+En mil ochocientos ochenta y siete encontró aliados. Fundó la Tesla Electric Company. Patentó un sistema polifásico de corriente alterna: generadores, transformadores, motores. La idea era brutal en su elegancia. La corriente directa pierde fuerza con la distancia. Hay que construir una estación cada pocas cuadras. La corriente alterna se puede elevar a voltajes enormes, viajar cientos de kilómetros con pocas pérdidas, y bajar de nuevo, suave, hasta una lámpara de cocina.
+
+En mil ochocientos ochenta y ocho, George Westinghouse compró las patentes. Westinghouse no era un poeta. Era un industrial de Pittsburgh que entendió el mapa. Si Tesla tenía razón, el país entero podía iluminarse desde las cascadas, desde los ríos, desde lejos.
+
+Y entonces empezó la guerra.
+
+Edison y sus aliados no iban a entregar el siglo sin pelear. La campaña contra la corriente alterna fue sucia y teatral. Harold P. Brown, asociado al entorno de Edison, organizó demostraciones públicas para probar que la alterna mataba. La estrategia existió, y fue fea. Querían que la gente oyera corriente alterna y pensara en la muerte.
+
+Hasta empujaron la idea de que la silla eléctrica del estado de Nueva York se alimentara con alterna, para que el verdugo y el ingeniero rival compartieran reputación. Edison no inventó la silla. Sí participó, de forma indirecta y calculada, en asociar el sistema contrario con el cadalso.
+
+Tesla y Westinghouse respondieron con otra clase de espectáculo. Luz. En la Exposición Universal de Chicago, en mil ochocientos noventa y tres, la Ciudad Blanca se encendió con corriente alterna. Cientos de miles de lámparas. Un palacio de electricidad. El público no leyó un tratado. Vio la noche convertirse en día, y entendió.
+
+Dos años después, el argumento se volvió geografía. En las cataratas del Niágara se levantó la central Adams. En agosto de mil ochocientos noventa y cinco los generadores empezaron a girar. Al año siguiente, la energía cruzó hasta Búfalo. Una cascada, convertida en trabajo. Westinghouse construyó las máquinas con las patentes de Tesla. El mundo industrial acababa de elegir un camino.
+
+Tesla, en la cima, hizo algo que todavía discute cualquiera que haya firmado un contrato. Westinghouse estaba ahogado por las regalías prometidas, cerca de un dólar por cada caballo de fuerza. Si pagaba, podía quebrar, y con él el sistema. Tesla rompió el acuerdo. Renunció a una fortuna. Dijo, en esencia, que Westinghouse había creído en él cuando nadie más lo hizo. Quedó libre. Y quedó, otra vez, sin red.
+
+Porque a Tesla no le interesaba administrar un imperio. Le interesaba la siguiente visión.
+
+En su laboratorio de Nueva York jugaba con altas frecuencias. Tubos que brillaban en la mano sin cables. Corrientes que atravesaban el cuerpo sin matar, si se dominaban. Demostraciones que parecían circo y eran física. En mil ochocientos noventa y ocho, en el Madison Square Garden, presentó un barco en miniatura que obedecía órdenes por ondas. Giro a la izquierda. Luces. Alto. Lo llamó teleautómata. El público buscaba el truco: un hilo escondido, un mecanismo visible. No había truco. Había control remoto. Décadas antes de que un niño tuviera un coche de juguete con antena.
+
+En Colorado Springs, en mil ochocientos noventa y nueve, construyó un laboratorio en la llanura y levantó un mástil que hablaba con las tormentas. Bobinas del tamaño de una casa. Descargas artificiales de millones de voltios. El pueblo veía el cielo encenderse de noche. Tesla medía la Tierra como si fuera un conductor gigante. Quería demostrar que la energía y los mensajes podían viajar sin cables, usando el planeta mismo como circuito.
+
+De esos cuadernos salieron afirmaciones que sus admiradores convierten en profecía y sus críticos en delirio. Dijo haber registrado señales rítmicas que no podía explicar. Algunos quisieron oír marcianos. Lo prudente es otra cosa: estaba explorando la radio en una época en la que la radio todavía no tenía nombre de mercado.
+
+Y aquí hay que ser justo con la historia, porque la leyenda miente por los dos lados.
+
+Tesla no inventó todo para que se lo robaran en una tarde. Guglielmo Marconi tampoco salió de la nada. Marconi fue un ingeniero soberbio de sistemas: antenas, sintonía, negocio, persistencia. En mil novecientos uno logró una señal a través del Atlántico. Tesla había mostrado principios de transmisión inalámbrica y tenía patentes de circuitos sintonizados. Hubo juicios durante décadas. En mil novecientos cuarenta y tres, meses después de la muerte de Tesla, la Corte Suprema de Estados Unidos invalidó una patente clave de Marconi por prioridad de trabajos anteriores, entre ellos los de Tesla, Oliver Lodge y John Stone. No fue un diploma romántico que dijera: el verdadero padre de la radio es Tesla. Fue una pelea de patentes, técnica y tardía. La verdad cabe en una frase. Tesla vio el principio. Marconi construyó la industria. El siglo usó a los dos.
+
+El sueño más alto de Tesla no era la radio de entretenimiento. Era Wardenclyffe.
+
+En Shoreham, Long Island, a partir de mil novecientos uno, empezó a levantar una torre con cúpula. El financiador era J. P. Morgan. Tesla le había hablado de mensajes transatlánticos, de un sistema mundial de comunicación. En su cabeza había algo más grande: energía sin cables para todos, transmisores plantados como faros, la Tierra latiendo a una frecuencia. Morgan había puesto alrededor de ciento cincuenta mil dólares. Cuando entendió la escala, y cuando Marconi cruzó el océano con un aparato más barato, el dinero se detuvo.
+
+Tesla pidió más. No llegó. En mil novecientos seis el proyecto agonizaba. Los acreedores esperaban. En mil novecientos diecisiete la torre fue demolida y vendida como chatarra. El faro del futuro se convirtió en metal fundido.
+
+Duele, porque la idea no era tonta. La transmisión de información sin cables sí conquistó el siglo. La transmisión de grandes cantidades de energía a través del aire, tal como Tesla la soñó, choca con una física implacable: la energía se dispersa, se pierde, no llega a una cocina como llega un cable. Hoy investigamos carga inalámbrica de corta distancia y haces dirigidos. No una torre que alimente una ciudad. Wardenclyffe fue, a la vez, una profecía de las telecomunicaciones y un error de escala. Las dos cosas pueden ser ciertas.
+
+Después de la torre, la vida de Tesla se fue quedando sin escenario.
+
+Seguía patentando. Una turbina sin palas. Ideas de aviones capaces de elevarse en vertical. Notas sobre armas de energía dirigida que los periódicos de los años treinta convirtieron en el rayo de la muerte, y que él describía más como un haz defensivo que como un apocalipsis. Nunca lo construyó. Los gobiernos miraron, dudaron y siguieron de largo.
+
+Vivió en hoteles de Nueva York. Primero los grandes. Luego sitios más modestos. El Hotel New Yorker, al final. Caminaba cada día a alimentar palomas. Había una, blanca, con las puntas de las alas grises, a la que quiso de una forma que sus biógrafos todavía nombran en voz baja. Cuando esa paloma murió, Tesla dijo que algo en él murió también.
+
+Hacía cuentas raras con el número tres. Doblaba las servilletas en múltiplos precisos. No se casó. Dijo que el trabajo no le dejaba sitio. También dijo cosas de su tiempo que hoy nos avergüenzan: ideas duras sobre quién merecía tener hijos, el eco de una eugenesia que contaminó a mucha ciencia de principios del siglo veinte. Admirarlo no obliga a inventarle una santidad. El hombre era brillante, vanidoso, generoso, solo, y a veces cruel en el pensamiento.
+
+El siete de enero de mil novecientos cuarenta y tres lo encontraron muerto en su habitación. Tenía ochenta y seis años. El gobierno de Estados Unidos, en plena guerra, revisó sus papeles por si había un arma. No había un rayo secreto. Había cuadernos. Días después, en la catedral de San Juan el Divino, se despidió a un inventor que había alumbrado el siglo y casi no había cobrado el recibo de la luz.
+
+Qué queda, entonces, cuando se apaga la leyenda.
+
+Queda el motor que arranca tu refrigerador. Queda la línea que sale de una presa y cruza una montaña. Queda la bobina que todavía enseña a los estudiantes que el aire puede romperse en azul. Queda el barco diminuto que obedeció una orden invisible, abuelo de todo control remoto. Queda la terquedad de imaginar el aparato entero antes de que exista el tornillo.
+
+Y queda una advertencia. Tesla confiaba en que la visión bastaba. Que alguien, en algún escritorio, entendería y firmaría el cheque. Edison entendía el taller, el mercado y el periódico. Westinghouse entendía la fábrica. Morgan entendía el interés. Tesla entendía la forma pura de la idea. El siglo veinte se construyó en el hueco que hay entre esas cuatro inteligencias. Ninguna, sola, ilumina una ciudad.
+
+Si hoy enciendes una lámpara, estás cerrando un círculo que empezó en un pueblo con tormenta, siguió en un parque de Budapest y casi se rompió en una zanja de Nueva York.
+
+La corriente cambió de dirección. El hombre, no.
+
+Hay un detalle que casi nunca cabe en el mito, y merece un minuto. Tesla no dibujaba como quien duda. Dibujaba como quien ya vio. Sus patentes de corriente alterna, presentadas en racimo a finales de los años ochenta, no son un invento suelto: son un sistema. Generador, transformador, línea, motor. Quita una pieza y el milagro se cae. Por eso Niágara importó más que cualquier discurso. No fue una lámpara de feria. Fue una infraestructura. Desde entonces, cada presa, cada parque eólico, cada planta que entrega energía a una red, le debe algo a esa decisión de mil ochocientos noventa y cinco. La bombilla de Edison cabe en una mano. El sistema de Tesla cabe en un continente.
+
+También queda su manera de trabajar, que hoy llamaríamos simulación mental. Antes de gastar cobre, hacía girar la máquina en la cabeza. Corregía el calor, el ruido, el desgaste. Solo entonces pedía materiales. Ese método le ahorró fortuna y le costó credibilidad: un inversor quiere ver virutas en el suelo, no un hombre callado mirando una pared. Tesla miraba la pared. Y a veces, cuando por fin encendía el aparato, funcionaba a la primera. A veces no. El genio no es infalible. Es alguien que se permite equivocarse a una escala que asusta a los prudentes.
+
+Mira tu calle esta noche. El transformador del poste, esa caja gris que zumba, es un descendiente directo de su sistema. El motor del elevador. El compresor silencioso del aire acondicionado. La carga que viaja desde una presa hasta el cargador de un teléfono. No hace falta un retrato en la pared para que un inventor siga trabajando. Hace falta que la idea esté tan bien hecha que el mundo ya no pueda vivir sin ella, y olvide el nombre.
+
+Si esta historia te dejó con ganas de la siguiente, suscríbete a InodeAi. Aquí contamos las vidas y las máquinas que de verdad movieron el mundo, sin prisa y sin cuento barato. Dale seguir. Activa la campana. Comparte este documental con alguien que todavía cree que la luz siempre estuvo ahí. No estuvo. Alguien tuvo que imaginarla girando en la oscuridad.
+
+InodeAi. El mejor contenido, contado hasta el fondo. Nos vemos en el próximo capítulo.
